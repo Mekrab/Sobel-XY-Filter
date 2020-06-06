@@ -1,0 +1,35 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+WARNING: Insufficient data from the input file for $fread
+bmp_size =     387358!
+
+bmp_start_pos =       1078!
+
+bmp_width =        695!
+
+bmp_height =        555!
+
+writeBMP: done!
+
+WARNING: Insufficient data from the input file for $fread
+bmp_size =     387358!
+
+bmp_start_pos =       1078!
+
+bmp_width =        695!
+
+bmp_height =        555!
+
+writeBMP: done!
+
+WARNING: Insufficient data from the input file for $fread
+bmp_size =     387358!
+
+bmp_start_pos =       1078!
+
+bmp_width =        695!
+
+bmp_height =        555!
+
+writeBMP: done!
+
